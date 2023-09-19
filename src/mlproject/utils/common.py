@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from mlProject import logger
+from src.mlproject import logger
 import json
 import joblib
 from ensure import ensure_annotations
@@ -131,7 +131,7 @@ def get_size(path: Path) -> str:
 import os
 from box.exceptions import BoxValueError
 import yaml
-from mlProject import logger
+from src.mlproject import logger
 import json
 import joblib
 from ensure import ensure_annotations

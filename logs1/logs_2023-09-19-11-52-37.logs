@@ -1,4 +1,0 @@
-[2023-09-19 11:52:37,076] werkzeug - WARNING -  * Debugger is active!
-[2023-09-19 11:52:37,076] werkzeug - INFO -  * Debugger PIN: 207-133-283
-[2023-09-19 11:52:47,878] root - INFO - we are testing our logging file
-[2023-09-19 11:52:47,881] werkzeug - INFO - 127.0.0.1 - - [19/Sep/2023 11:52:47] "GET / HTTP/1.1" 200 -
